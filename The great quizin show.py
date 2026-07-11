@@ -1,4 +1,4 @@
-print("       Welcome to the Great Quizin Show")
+print("\tWelcome to the Great Quizin Show")
 
 if input("\nPress Enter to start the game") == "":
     print("\nLet's get started!")
