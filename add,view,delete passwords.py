@@ -46,7 +46,7 @@ if master_pwd==mp:
                 view_passwords()
         else:
             print("Invalid option. Please choose 'add', 'view', or 'quit'.")    
-            break
+            continue
 
 elif master_pwd=='delete':
     print("Are you sure you want to delete all passwords? This action cannot be undone.")
